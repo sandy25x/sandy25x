@@ -27,4 +27,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sandy25x&icon=5&color=11)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/sandy25x/sandy25x/blob/output/github-snake-dark.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
